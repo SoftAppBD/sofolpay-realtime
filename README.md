@@ -48,8 +48,8 @@ This server works exclusively with the official SofolPay Payment Gateway system.
                                 Frontend → Socket.IO → Realtime Server
                                                 ↑
                                                 |
-                                        SofolPay Payment Gateway
-                                        (JWT + Config + Key Provider)
+                                    SofolPay Payment Gateway
+                                 (JWT + Config + Key Provider)
 ```
 
 The Gateway controls:
@@ -214,3 +214,4 @@ SofolPay is not responsible for:
 
 
 Licensed users are responsible for maintaining secure hosting environments. *Thanks*.
+
